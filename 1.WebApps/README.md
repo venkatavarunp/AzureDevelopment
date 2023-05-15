@@ -15,11 +15,11 @@
 - [Configure security certificates](https://github.com/venkatavarunp/AzureDevelopment/blob/main/1.WebApps/10.Certificates.md)
 ## Scale apps in Azure App Service
 - [Examine autoscale factors](https://github.com/venkatavarunp/AzureDevelopment/blob/main/1.WebApps/11.AutoScale.md)
-- [Identify autoscale factors]()
-- [Enable autoscale in App Service]()
-- [Explore autoscale best practices]()
+- [Identify autoscale factors](https://github.com/venkatavarunp/AzureDevelopment/blob/main/1.WebApps/12.AutoScaleFactors.md)
+- [Enable autoscale in App Service](https://github.com/venkatavarunp/AzureDevelopment/blob/main/1.WebApps/13.AutoScaleEnabling.md)
+- [Explore autoscale best practices](https://github.com/venkatavarunp/AzureDevelopment/blob/main/1.WebApps/14.AutoScalingBestPractices.md)
 ## Explore Azure App Service deployment slots
-- [Explore staging environments]()
-- [Examine slot swapping]()
-- [Swap deployment slots]()
-- [Route traffic in App Service]()
+- [Explore staging environments](https://github.com/venkatavarunp/AzureDevelopment/blob/main/1.WebApps/15.StagingEnv.md)
+- [Examine slot swapping](https://github.com/venkatavarunp/AzureDevelopment/blob/main/1.WebApps/16.SlotSwap.md)
+- [Swap deployment slots](https://github.com/venkatavarunp/AzureDevelopment/blob/main/1.WebApps/17.SwapDeployments.md)
+- [Route traffic in App Service](https://github.com/venkatavarunp/AzureDevelopment/blob/main/1.WebApps/18.TrafficRoute.md)
